@@ -2,9 +2,10 @@
 from flask import Flask, request, jsonify, render_template, redirect, url_for, session
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
+import secrets
 
 app = Flask(__name__)
-app.secret_key = 'supersecretkey'
+app.secret_key = secrets.token_hex(32)
 
 # Load model
 tokenizer = AutoTokenizer.from_pretrained("./models")
