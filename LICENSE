@@ -1,112 +1,111 @@
-# NeXa AI License (NAL) v1.0
+NeXa AI License (NAL) – Version 1.0
+Copyright (c) 2026 NeXa AI Project
 
-Copyright (c) 2026 NeXa AI  
-All rights reserved.
+================================================================
+LICENSE AGREEMENT
+================================================================
 
----
+This software, known as "NeXa AI", including its source code,
+models, weights, datasets, configurations, documentation, and
+any associated files (collectively, the "Software"), is licensed
+under the terms below.
 
-## 1. Definitions
+----------------------------------------------------------------
+1. PERMITTED USE
+----------------------------------------------------------------
 
-**"NeXa AI"** refers to the software, source code, models, datasets, configurations, documentation, and any related materials provided by the NeXa AI project.
+Permission is granted to use the Software exclusively for
+personal, educational, and non-commercial purposes.
 
-**"You"** refers to any individual or entity accessing, using, or interacting with NeXa AI.
+Use of the Software is allowed only when explicitly authorized
+by the NeXa AI Project or its owner.
 
-**"Source"** refers to the original NeXa AI project and its official repository.
+----------------------------------------------------------------
+2. PROHIBITED USE
+----------------------------------------------------------------
 
----
+The following actions are strictly prohibited without prior
+written permission from the NeXa AI Project:
 
-## 2. Grant of Permission
+a) Commercial use of the Software or any derivative work.
+b) Distribution, sublicensing, resale, or public deployment.
+c) Modification, reverse engineering, or derivative creation.
+d) Use of the Software in patented systems or patent claims.
+e) Training other models using NeXa AI outputs or internals.
+f) Use of the Software to replicate or compete with NeXa AI.
+g) Removal or alteration of copyright notices.
 
-Permission is granted to use NeXa AI **only for personal, educational, or internal research purposes**, subject to the conditions of this license.
+----------------------------------------------------------------
+3. SOURCE DISCLOSURE
+----------------------------------------------------------------
 
-Any use outside the scope explicitly permitted by this license is strictly prohibited.
+Any authorized use of the Software must clearly disclose that
+the Software is powered by or derived from NeXa AI.
 
----
+The name "NeXa AI" must be visibly credited.
 
-## 3. Restrictions
+----------------------------------------------------------------
+4. COPYRIGHT AND AUTHORIZATION
+----------------------------------------------------------------
 
-The following actions are **NOT permitted** without **explicit written permission** from the NeXa AI author(s):
+The NeXa AI Project retains full copyright ownership of the
+Software.
 
-- ❌ Commercial use of NeXa AI or any of its components  
-- ❌ Distribution, sublicensing, or resale of NeXa AI  
-- ❌ Modification, reverse engineering, or derivative works  
-- ❌ Use of NeXa AI for patent claims or patent-related purposes  
-- ❌ Removal or alteration of copyright notices  
-- ❌ Claiming NeXa AI or its outputs as your own intellectual property  
+Limited authorization is granted for copying copyrighted
+material strictly for use within NeXa AI, provided that such use
+is lawful and permission has been obtained by the user when
+required.
 
----
+----------------------------------------------------------------
+5. MODIFICATIONS AND CHANGES
+----------------------------------------------------------------
 
-## 4. Attribution Requirement
+Any modification, adaptation, or alteration of the Software
+must be explicitly authorized.
 
-Any permitted use of NeXa AI **must clearly disclose the source**, including:
+Authorized changes must be clearly documented and publicly
+disclosed, including the date and nature of the modification.
+Contacts:
+firebytestudio@outlook.com
 
-- The name **"NeXa AI"**
-- A reference to the original project or repository
+----------------------------------------------------------------
+6. NO WARRANTY
+----------------------------------------------------------------
 
-Failure to properly disclose the source constitutes a violation of this license.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
+NON-INFRINGEMENT.
 
----
+----------------------------------------------------------------
+7. LIMITATION OF LIABILITY
+----------------------------------------------------------------
 
-## 5. Limited Copyright Permission
+IN NO EVENT SHALL THE NeXa AI PROJECT OR ITS CONTRIBUTORS BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
-NeXa AI grants limited permission to use copyrighted materials **solely for interaction with NeXa AI**, provided that:
+----------------------------------------------------------------
+8. TERMINATION
+----------------------------------------------------------------
 
-- The use is authorized by the copyright holder, or
-- The material is legally permitted for such use
+Any violation of this License automatically terminates all
+rights granted herein, without notice.
 
-This license does **not** grant ownership or transfer of copyright for any content processed by NeXa AI.
+Upon termination, all copies of the Software must be destroyed.
 
----
+----------------------------------------------------------------
+9. GOVERNING TERMS
+----------------------------------------------------------------
 
-## 6. Modifications and Changes
+This License is governed by the terms defined by the NeXa AI
+Project.
 
-Any modification, adaptation, or change to NeXa AI:
+For permissions, exceptions, or licensing inquiries, contact
+the NeXa AI Project owner.
 
-- Must be explicitly authorized in writing
-- Must be clearly documented
-- Must include a notice describing the changes made
-
-Unauthorized modifications are strictly prohibited.
-
----
-
-## 7. No Warranty
-
-NeXa AI is provided **"AS IS"**, without warranty of any kind, express or implied, including but not limited to:
-
-- Fitness for a particular purpose
-- Accuracy or reliability
-- Non-infringement
-
-The authors shall not be held liable for any damages arising from the use or inability to use NeXa AI.
-
----
-
-## 8. Limitation of Liability
-
-In no event shall the authors or contributors of NeXa AI be liable for any claim, damages, or other liability, whether in contract, tort, or otherwise, arising from or in connection with NeXa AI.
-
----
-
-## 9. Termination
-
-Any violation of this license automatically terminates all rights granted herein.
-
-Upon termination, you must immediately cease all use of NeXa AI and destroy any copies in your possession.
-
----
-
-## 10. Governing Law
-
-This license shall be governed and interpreted in accordance with applicable laws, without regard to conflict of law principles.
-
----
-
-## 11. Contact
-
-For permissions, exceptions, or licensing inquiries, contact the NeXa AI author(s).
-**CEO**: Davi Muller: davilucastokmuller@gmail.com
-
----
-
-**NeXa AI — Controlled Use License**
+================================================================
+END OF LICENSE
+================================================================
